@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://josuegonzalezportfolio.netlify.app/](https://josuegonzalezportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://josuegonzalez.netlify.app/
 
 - 📫 How to reach me **Josuegonzalezd046@gmail.com**
 
